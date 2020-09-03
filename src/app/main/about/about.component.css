@@ -1,0 +1,15 @@
+.about-para {
+    padding: 20px;
+    font-size: 19px;
+    font-weight: inherit;
+    letter-spacing: 1px;
+    margin: 10px;
+    line-height: 44px;
+    border-radius: 10px;
+    margin-top: 20px !important;
+    margin-top: 20px !important;
+}
+strong{
+    padding:5px !important;
+    border-radius: 5px !important;
+}

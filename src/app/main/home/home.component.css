@@ -1,0 +1,14 @@
+.custom_style{
+    padding:15px;
+}
+img.image_style {
+    height: 66px !important;
+}
+
+.cutsom_style1 {
+    text-align: center !important;
+    font-size: 17px !important;
+    margin-top: 20px !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+}
