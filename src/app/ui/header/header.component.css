@@ -1,11 +1,6 @@
-img.image_style {
-    height: 66px !important;
+.bg-warning{
+    background-color:rgb(245 124 0) !important;   
 }
-
-.cutsom_style {
-    text-align: center !important;
-    font-size: 17px !important;
-    margin-top: 20px !important;
-    padding: 10px !important;
-    font-weight: bold !important;
+.text-white{
+    color:white !important;
 }

@@ -24,10 +24,13 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/styles.css"
+              "src/assets/vendor/bootstrap/css/bootstrap.min.css",
+              "src/assets/css/modern-business.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendor/jquery/jquery.min.js",
+              "src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+            ]
           },
           "configurations": {
             "production": {
