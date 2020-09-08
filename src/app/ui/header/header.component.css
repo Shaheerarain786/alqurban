@@ -1,6 +1,12 @@
 .bg-warning{
-    background-color:rgb(245 124 0) !important;   
+    background-color:rgb(255,100,5) !important;   
 }
 .text-white{
     color:white !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+.navbar-dark .navbar-nav li:hover {
+    background: rgba(165 68 8);
 }

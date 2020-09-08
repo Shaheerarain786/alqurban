@@ -1,5 +1,5 @@
 .bg-warning, .btn-warning{
-    background-color:rgb(245 124 0) !important;   
+    background-color:rgb(255,100,5) !important;   
 }
 .text-white{
     color:white !important;
@@ -38,7 +38,7 @@
     color:white;
 }
 .text-warning {
-    color:rgb(245 124 0);
+    color:rgb(255,100,5);
 }
 .text-primary{
     color: rgb(27,0,73) !important;
